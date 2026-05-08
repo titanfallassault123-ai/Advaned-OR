@@ -42,6 +42,3 @@ using:
 - VS Code
 - Jupyter Notebook
 - Google Colab
-
-## Author
-Ahmed
